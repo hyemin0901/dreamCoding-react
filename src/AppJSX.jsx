@@ -1,6 +1,8 @@
 import './App.css';
 
 function AppJSX() {
+  const name = '혜민';
+  const list = ['우유', '딸기', '바나나', '요거트'];
   return (
     <>
       <h1 className='orange'>{`hello! ${name}`}</h1>
