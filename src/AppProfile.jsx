@@ -6,7 +6,6 @@ function AppProfile() {
   return (
     <>
       <Profile />
-      <AppJSX />
     </>
   );
 }
